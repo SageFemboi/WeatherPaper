@@ -51,3 +51,4 @@ while true; do
     fi
     sleep $Updatetimer
 done
+# hai bestie :3c
